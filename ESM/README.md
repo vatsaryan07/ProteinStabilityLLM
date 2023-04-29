@@ -21,4 +21,4 @@
 
 ## Instructions
 
-- Run the notebook [ESM.ipynb] directly. It will automatically install the [data](https://github.com/songlab-cal/tape).
+- Run the notebook ESM.ipynb directly. It will automatically install the [data](https://github.com/songlab-cal/tape).
