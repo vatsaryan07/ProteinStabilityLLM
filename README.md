@@ -1,6 +1,6 @@
 # ProteinStability_LLM
-CS7650 Group Project @Georgia Tech
-- Predicting Protein Stability Scores using Large Language Models
+## CS7650 Group Project @Georgia Tech
+## Topic: Predicting Protein Stability Scores using Large Language Models
 
 Contributors:
 - Zoey Yang
