@@ -15,7 +15,7 @@
 
 ## Dataset
 
-- We used the [TAPE](https://github.com/songlab-cal/tape) and used the Stability Scores to train the model
+- We used the [TAPE](https://github.com/songlab-cal/tape) dataset with the Stability Scores to train the model
 - The code for installing the dataset is contained in this notebook
 
 
